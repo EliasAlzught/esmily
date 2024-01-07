@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "984675100272",
+    "project_id": "esimlystore",
+    "storage_bucket": "esimlystore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984675100272:android:7e7353d1a4355d361ef6b5",
+        "android_client_info": {
+          "package_name": "com.esimly.esimlystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984675100272-hgeaff4bjaqf5ov8q144gj786miua5l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esimly.esimlystore",
+            "certificate_hash": "d087f0616fb1139bc19edc18f549f3dd3a1c1eb1"
+          }
+        },
+        {
+          "client_id": "984675100272-a8sddr78on7bjfj5rss6lc9n4ubh9vb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBerzfB05gnoaAejFxkH7Q6b7eOPkueruU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984675100272-a8sddr78on7bjfj5rss6lc9n4ubh9vb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

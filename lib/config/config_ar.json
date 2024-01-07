@@ -1,0 +1,437 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": false,      "notifications": true,
+      "logoSize": 70,
+      "image": "assets/images/app_icon.png",
+      "showSearch": true,
+      "showLogo": true,
+      "enableBackground": false
+    },
+
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "height": 0.30,
+      "fit": "cover",
+      "items": [
+        {
+          "padding": 6.6,
+          "category": 128,
+          "image": "assets/images/0_esimly.io-esimly-esim-china.png"
+        },
+        {
+          "category": 260,
+          "image": "assets/images/0_esimly.io-esimly-esim-thailand.png",
+          "padding": 6.6
+        },
+        {
+          "padding": 6.6,
+          "category": 184,
+          "image":"assets/images/0_esimly.io-esimly-esim-turkey.png"
+        }
+      ,
+        {
+          "padding": 6.6,
+          "category": 157,
+          "image": "assets/images/1_esimly.io-esimly-esim-france.png"
+        }
+      ,
+        {
+          "padding": 6.6,
+          "category": 203,
+          "image": "assets/images/1_esimly.io-esimly-esim-italy.png"
+        }
+      ,
+        {
+          "padding": 6.6,
+          "category": 257,
+          "image": "assets/images/1_esimly.io-esimly-esim-united-arab-emirates - Copy.png"
+        }
+      ,
+        {
+          "padding": 6.6,
+          "category": 233,
+          "image": "assets/images/2_esimly.io-esimly-esim-germany.png"
+        }
+      ,
+        {
+          "padding": 6.6,
+          "category": 217,
+          "image": "assets/images/2_esimly.io-esimly-esim-saudi-arabiapng"
+        } ,
+        {
+          "padding": 6.6,
+          "category": 261,
+          "image": "assets/images/2_esimly.io-esimly-esim-united-kingdom.png"
+        }
+      ],
+      "autoPlay": false,
+      "design": "tinder",
+      "radius": 20.0,
+      "intervalTime": 5
+    },
+    {
+      "marginRight": 0,
+      "hideHeader": false,
+      "fontWeight": "900",
+      "textColor": null,
+      "showSearch": false,
+      "layout": "header_text",
+      "marginLeft": 24,
+      "marginTop": 19,
+      "title": "الوجهات الشعبية",
+      "fontSize": 20,
+      "height": 25,
+      "textOpacity": 1,
+      "marginBottom": 4
+    },
+
+
+
+
+
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+
+      "height": 0.25,
+      "fit": "cover",
+      "items": [
+        {
+
+
+          "category": 257,
+          "image": "assets/images/9_united arab emirates.png",
+          "padding": 2
+
+        },
+        {
+
+
+          "padding": 2,
+          "category": 258,
+          "image": "assets/images/10_united.png"
+        },
+        {
+
+          "category": 233,
+          "image":"assets/images/esimly.io-esimly-esim-germany.png",
+          "padding": 2
+
+        },   {
+
+
+          "padding": 2,
+          "category": 157,
+          "image": "assets/images/esimly.io-esimly-esim-france.png"
+
+        },  {
+
+          "category": 175,
+          "image": "assets/images/4_Norway.png",
+          "padding": 2
+
+        },
+        {
+
+          "category": 211,
+          "image": "assets/images/3_holanda.png",
+          "padding": 2
+
+        },
+        {
+
+          "category": 153,
+          "image": "assets/images/5_poland.png",
+          "padding": 2
+
+        },
+        {
+
+          "category": 180,
+          "image": "assets/images/6_qatar.png",
+          "padding": 2
+
+        },
+        {
+
+          "category": 253,
+          "image": "assets/images/7_spain.png",
+          "padding": 2
+
+        },
+        {
+
+          "category": 186,
+          "image": "assets/images/azerbaijan.png",
+          "padding": 2
+
+        }, {
+
+          "category": 220,
+          "image": "assets/images/8_Switzerland.png",
+          "padding": 2
+
+        }
+      ],
+      "autoPlay": false,
+      "design": "swiper",
+      "radius": 20.0,
+
+      "intervalTime": 4
+    },
+    {
+      "marginRight": 0,
+      "hideHeader": false,
+      "fontWeight": "900",
+      "textColor": null,
+      "showSearch": false,
+      "layout": "header_text",
+      "marginLeft": 24,
+      "marginTop": 19,
+      "title": "الوجهات حسب القارة",
+      "fontSize": 20,
+      "height": 25,
+      "textOpacity": 1,
+      "marginBottom": 4
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "height": 0.25,
+      "fit": "cover",
+      "items": [
+        {
+
+
+          "image": "assets/images/asia.png",
+          "padding": 2,
+          "category": 565
+        },
+        {
+
+          "image": "assets/images/africa.png",
+          "padding": 2,
+          "category": 564
+        },
+        {
+
+          "image": "assets/images/middle east.png",
+          "padding": 2,
+          "category": 575
+        },   {
+
+          "image": "assets/images/south america.png",
+          "padding": 2,
+          "category": 576
+        },  {
+
+          "image": "assets/images/north america.png",
+          "padding": 2,
+          "category": 577
+        },
+        {
+
+          "image": "assets/images/europe.png",
+          "padding": 2,
+          "category": 578
+        }
+      ],
+
+      "design": "swiper",
+      "autoPlay": false,
+      "radius": 20.0,
+      "intervalTime": 5
+    }
+
+  ],
+  "Setting": {
+    "MainColor": "#D13453",
+    "FontFamily": "Roboto",
+    "FontHeader": "Raleway",
+    "ProductListLayout": "list",
+    "StickyHeader": false,
+    "ShowChat": true,
+    "useMaterial3": false,
+    "AgeRestriction": {
+      "enable": false,
+      "imageUrl": "",
+      "backgroundImageUrl": "",
+      "title": "Welcome to our shop\nYou must be 21 or older to enter",
+      "deniedMessage": "You are not of legal age to use this application",
+      "hintMessage": "What is your year of birth?",
+      "minimumAge": 21,
+      "useLogo": true,
+      "alwaysShowUponOpen": true
+    },
+    "SmartEngagementBanner": {
+      "popup": {
+        "enable": false,
+        "data": {
+          "layout": "bannerImage",
+          "design": "static",
+          "fit": "fitHeight",
+          "marginLeft": null,
+          "items": [
+            {
+              "image": "https://i.imgur.com/ZL1LO75.png",
+              "showSubcategory": false,
+              "bannerWithProduct": false,
+              "defaultShowProduct": false,
+              "products": [],
+              "category": "22",
+              "padding": 0.0
+            }
+          ],
+          "marginBottom": 10.0,
+          "height": 0.45,
+          "marginRight": null,
+          "marginTop": 10.0,
+          "enableParallax": false,
+          "parallaxImageRatio": 1.2,
+          "isHorizontal": false,
+          "parallax": false,
+          "key": "p2oq4zc4hg"
+        },
+        "alwaysShowUponOpen": true,
+        "closePosition": "topRight",
+        "updatedTime": 1661314494281
+      },
+      "flexible": {
+        "enable": false,
+        "data": {
+          "alignment": "topCenter",
+          "marginTop": 0.0,
+          "marginBottom": 0.0,
+          "items": [
+            {
+              "image": "https://assets9.lottiefiles.com/private_files/lf30_a4mKwA.json",
+              "width": 100.0,
+              "height": 80.0,
+              "borderRadius": 2.0,
+              "marginLeft": 0.0,
+              "marginRight": 0.0,
+              "textFontSize": 14.0,
+              "useMaxWidth": true,
+              "navigator": {
+                "showSubcategory": true,
+                "coupon": "blackf"
+              }
+            }
+          ],
+          "layout": "button"
+        },
+        "canDrag": true,
+        "canClose": true,
+        "width": 100.0,
+        "height": 100.0
+      },
+      "sticky": {
+        "enable": false,
+        "data": {
+          "layout": "bannerImage",
+          "design": "static",
+          "fit": "fitWidth",
+          "marginLeft": 10.0,
+          "items": [
+            {
+              "image": "https://i.imgur.com/LUaEM3v.jpeg",
+              "showSubcategory": false,
+              "bannerWithProduct": false,
+              "defaultShowProduct": false,
+              "products": [],
+              "coupon": "halfprice",
+              "padding": 0.0,
+              "radius": 9.0
+            }
+          ],
+          "marginBottom": 10.0,
+          "marginRight": 10.0,
+          "marginTop": 10.0,
+          "height": 0.2,
+          "enableParallax": false,
+          "parallaxImageRatio": 1.2,
+          "isHorizontal": false,
+          "parallax": false,
+          "key": "ga8oe39k5t"
+        }
+      }
+    }
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png",
+      "label": "الرئيسية",
+      "showChat": true
+    },
+
+    {
+      "layout": "category",
+      "categoryLayout": "sideMenu",
+      "icon": "assets/icons/tabs/airplane.png",
+      "label": "وجهتك",
+      "showChat": true
+    },
+
+
+    {
+      "icon": "assets/icons/tabs/esim.png",
+      "layout": "search",
+      "showChat": true,
+      "label": "الشريحه"
+    },
+
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": true,
+      "showBackground": true,
+      "styleItem": "listTile",
+      "settingStyle": "normal",
+      "label": "حسابى"
+    }
+
+  ],
+  "searchSuggestion": [
+    "Here are some suggestions:",
+    "USA",
+    "10gb"
+  ],
+  "PrivacyPoliciesPageUrlOrId": "https://help.esimly.io/privacy-policy",
+  "onBoardingConfig": {
+    "enableOnBoarding": true,
+    "version": 1,
+    "autoCropImageByDesign": true,
+    "isOnlyShowOnFirstTime": true,
+    "showLanguage": true,
+    "data": [
+      {
+        "title": "مرحبا بك فى تطبيق eSimly",
+        "image": "assets/images/about-esimly-2.png",
+        "desc": "فى طريقنا لمساعدتك فى رحلتك. "
+      },
+      {
+        "title": "ابقى متصل بالعالم معنا",
+        "image": "assets/images/fogg-uploading-1.png",
+        "desc":
+        "شاهد وتابع كل ما يحدث فى العالم عبر esim الخاصة بنا."
+      },
+      {
+        "title": "هى لنبدأ",
+        "image": "assets/images/about-esimly-3.png",
+        "desc": "لا يوجد انتظار لترى ما لدينا هنا!"
+      }
+    ]
+  }
+}
